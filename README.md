@@ -7,10 +7,12 @@ Firebase dosyası paylaşılmamış olup ihtiyaç halinde iletişime geçilebili
 Uygulama Görüntüleri:
 * Uygulama tanıtım sayfası
  Uygulama ilk yüklendiğinde gösterilir.
+ 
 https://user-images.githubusercontent.com/33198774/157060499-2e145b43-0852-4349-93bc-42beeea32857.mp4
 
 
 * Kayıt olma, giriş yapma ve şifre sıfırlama sayfaları
+
 https://user-images.githubusercontent.com/33198774/157060783-38bdc17a-bfb7-49c7-b3ae-6265be1e5969.mp4
 
 
